@@ -1,0 +1,208 @@
+header{
+    border-bottom: 1px  solid rgb(133, 131, 131);
+    box-shadow: 2px 2px 5px rgb(75, 73, 71);
+}
+section{
+    position: relative;
+    bottom: 170px;
+    
+}
+
+.blocdepage{
+    margin: 0;
+    padding: 30px;
+    background-image: url("img.jfif");
+   
+}
+.bangou{
+    background:url("photo1.jpg")  ;
+    width: 100%;
+    height: 350px; 
+    position: relative;
+    bottom: 170px;
+    
+   
+}
+.carnet{
+    margin-left:  75px;
+    position: relative;
+    bottom: 50px; 
+    font-size: 20px;
+    
+}
+.nov{
+    margin-left:  140px;
+    clear: both;
+    font-size: 40px;
+    position: relative;
+    bottom: 10px;
+}
+.logo0{
+    margin-left: 70px;
+    border-radius: 50px/100px;
+    float: left;
+}
+.logo00{
+    border-radius: 50px/100px;
+}
+
+.nav{
+    position: relative;
+    bottom: 150px;
+    padding-left:60%;
+    font-size: 45px;
+}
+.para{
+    padding-top: 320px;
+    border: olive 5px solid;
+    font-size: 18px;
+    
+}
+.voirarticle{
+    padding-left:67%;
+    position: relative;
+    bottom: 2px;
+    right: 25px;
+    color: whitesmoke;
+    
+}
+.aa:hover{
+    box-shadow: 1px 2px 3px rgb(27, 22, 18);
+    color: rgb(201, 10, 10);
+}
+.aa{
+    background-color: rgb(56, 29, 29);
+    border-radius: 8%/10px ;
+    font-size: 20px;
+    width: 150px;
+
+}
+.acceuil{
+    color: rgb(201, 10, 10);
+    
+}
+
+.blog{
+    text-decoration: none;
+    color: rgb(34, 31, 31);
+}
+.cv{
+    text-decoration: none;
+    color: rgb(34, 31, 31);
+}
+
+.contact{
+    text-decoration: none;
+    color: rgb(34, 31, 31);
+}
+.contact:hover{
+    text-decoration: underline;
+    color: rgb(201, 10, 10);
+}
+.cv:hover{
+    text-decoration: underline;
+    color: rgb(201, 10, 10);
+}
+.blog:hover{
+    text-decoration: underline;
+    color: rgb(201, 10, 10);
+}
+
+article{
+    width: 70%;
+    text-align: justify;
+    padding: 20px;
+    font-size: 18px;
+    display: inline-block;
+}
+
+aside{
+    text-align: justify;
+    display: inline-block;
+    vertical-align: bottom;
+    position: relative;
+    bottom: 220px;
+    left: 30px;
+    /*bottom: 810px;*/
+    width: 18%;
+    background-color: rgb(165, 159, 157);
+    border-radius: 10%/35px;
+    padding: 5px 25px;
+    color: rgb(231, 229, 224);
+    font-size: 18px;
+}
+.logo{
+    padding-right: 45px;
+}
+.logo5{
+    margin-left: 101%;
+    position: relative;
+    bottom: 62px;
+}
+.photo9{
+    
+    position: relative;
+    left: 80px;
+}
+.auteur{
+    text-align: center;
+    font-size: 25px;
+
+
+}
+.h1{
+    font-size: 25;
+}
+footer{
+    position: relative;
+    bottom: 150px;
+    padding: 40px;
+    border-top: 1px  solid rgb(133, 131, 131);
+    box-shadow: 2px 2px 3px rgb(75, 73, 71);
+}
+.footer1{
+    display: inline-block;
+    vertical-align: TOP;
+    border: 10px solid rgb(31, 26, 26);
+    border-radius: 10%;
+    width: 450px;
+    height: 200px;
+    box-shadow: 5px 5px 10px rgb(27, 22, 18);
+   
+}
+.footer2{
+    display: inline-block;
+    vertical-align: top;
+    margin-left: 10px;
+    border: 10px solid rgb(31, 26, 26);
+    border-radius: 10%;
+    width: 450px;
+    height: 200px;
+    box-shadow: 5px 5px 10px rgb(27, 22, 18);
+    
+}
+.footer3{
+    display: inline-block;
+    margin-left: 10px;
+    border: 10px solid rgb(31, 26, 26);
+    border-radius: 10%;
+    width: 450px;
+    height: 200px;
+    box-shadow: 5px 5px 10px rgb(27, 22, 18);
+}
+.liste1{
+    display: inline-block;
+    margin-left: 70px;
+    position: relative;
+    right:80px;
+}
+.liste2{
+    display: inline-block;
+    margin-left: 70px;
+    position: relative;
+    right:20px;
+}
+.photo{
+    position: relative;
+    left: 40px;
+}
